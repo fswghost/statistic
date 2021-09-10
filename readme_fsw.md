@@ -13,3 +13,5 @@ https://fswghost.github.io/statistic/AI/books/特征工程入门与实践.pdf
 
 https://fswghost.github.io/statistic/AI/books/精通特征工程.pdf
 
+## 访问上面的网站，就可以阅读并下载单个的PDF文件了。
+
