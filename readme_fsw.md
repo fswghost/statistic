@@ -3,6 +3,7 @@
 GitHub Pages 可以将 repo 转换为可直接在线浏览的网站，这样就能直接在线阅读 repo 里面的 PDF 文件了。
 
 参考资料：https://juejin.cn/post/6844904105475850247
+（这个资料不错，为了防止该网页以后打不开，我把它保存成截图“如何直接下载 Github 上的某个文件（网页截图）.png”，放到了该项目的根目录下。）
 
 ## 访问示例：
 https://fswghost.github.io/statistic/
